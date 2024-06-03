@@ -22,7 +22,7 @@ This is a real-time chat application using NestJS and socket.io for the backend 
 
 1. **Navigate to the backend directory**:
     ```sh
-    cd chat-server
+    cd server
     ```
 
 2. **Install dependencies**:
