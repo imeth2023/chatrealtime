@@ -54,7 +54,7 @@ This is a real-time chat application using NestJS and socket.io for the backend 
     npm run dev
     ```
 
-   The server will run on [http://localhost:8080](http://localhost:8080).
+   The server will run on [http://localhost:5173](http://localhost:5173).
 
 ## Application Structure
 
