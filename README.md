@@ -1,7 +1,7 @@
 
 # Chat Application
 
-This is a real-time chat application using NestJS for the backend and Vue.js for the frontend. It supports multiple chat rooms and private messaging.
+This is a real-time chat application using NestJS and socket.io for the backend and Vue.js for the frontend. It supports multiple chat rooms and private messaging.
 
 ## Setup Instructions
 
@@ -22,7 +22,7 @@ This is a real-time chat application using NestJS for the backend and Vue.js for
 
 1. **Navigate to the backend directory**:
     ```sh
-    cd chat-server
+    cd server
     ```
 
 2. **Install dependencies**:
@@ -41,7 +41,7 @@ This is a real-time chat application using NestJS for the backend and Vue.js for
 
 1. **Navigate to the frontend directory**:
     ```sh
-    cd client-server
+    cd chat-client
     ```
 
 2. **Install dependencies**:
@@ -54,7 +54,7 @@ This is a real-time chat application using NestJS for the backend and Vue.js for
     npm run dev
     ```
 
-   The server will run on [http://localhost:8080](http://localhost:8080).
+   The server will run on [http://localhost:5173](http://localhost:5173).
 
 ## Application Structure
 
