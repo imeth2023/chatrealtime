@@ -104,6 +104,4 @@ frontend/
 - In-memory message storage (messages lost on server restart).
 - Minimal UI/UX.
 
-## License
 
-This project is licensed under the MIT License.
