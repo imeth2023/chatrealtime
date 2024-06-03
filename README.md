@@ -1,7 +1,7 @@
 
 # Chat Application
 
-This is a real-time chat application using NestJS for the backend and Vue.js for the frontend. It supports multiple chat rooms and private messaging.
+This is a real-time chat application using NestJS and socket.io for the backend and Vue.js for the frontend. It supports multiple chat rooms and private messaging.
 
 ## Setup Instructions
 
