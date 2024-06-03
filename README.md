@@ -41,7 +41,7 @@ This is a real-time chat application using NestJS for the backend and Vue.js for
 
 1. **Navigate to the frontend directory**:
     ```sh
-    cd client-server
+    cd chat-server
     ```
 
 2. **Install dependencies**:
