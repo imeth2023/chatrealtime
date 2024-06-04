@@ -32,7 +32,7 @@ This is a real-time chat application using NestJS and socket.io for the backend 
 
 3. **Start the backend server**:
     ```sh
-    yarn start
+    yarn start run
     ```
 
    The server will run on [http://localhost:3001](http://localhost:3001).
